@@ -41,6 +41,8 @@ I work at [Axelerant](https://axelerant.com) and contribute to open source softw
 
 <a href="https://golang.org/" title="Golang"><img src="/hussainweb/hussainweb/raw/main/icons/golang.png" /></a>
 <a href="https://www.rust-lang.org/" title="Rust"><img src="/hussainweb/hussainweb/raw/main/icons/rust.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="/hussainweb/hussainweb/raw/main/icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="/hussainweb/hussainweb/raw/main/icons/flutter.png" /></a>
 
 **Previously worked with:**
 
