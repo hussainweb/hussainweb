@@ -13,7 +13,7 @@ I work at [Axelerant](https://axelerant.com) and contribute to open source softw
 [![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
 [![GitHub](icons/github.png)](https://github.com/hussainweb)
 [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](http://www.youtube.com/channel/UCkAviUrmuFv20KR9XAqy3ZA)
+[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
 [![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
