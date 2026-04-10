@@ -6,7 +6,7 @@ My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over t
 
 I work as a **Director of Engineering**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
 
-I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about my management and working style. You can also explore my [career milestones](https://hussainweb.me/changelog), the [tools I use](https://hussainweb.me/uses/), and my writing on my [personal blog](https://hussainweb.me).
+I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about my management and working style. You can also explore my [overall timeline](https://hussainweb.me/changelog), the [tools I use](https://hussainweb.me/uses/), and my writing on my [personal blog](https://hussainweb.me).
 
 ---
 
