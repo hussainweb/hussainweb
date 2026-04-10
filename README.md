@@ -12,7 +12,13 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 **Connect with me:**
 
-[LinkedIn](https://www.linkedin.com/in/hussainweb/) | [YouTube](https://youtube.com/user/hussainweb) | [X (Twitter)](https://twitter.com/hussainweb) | [Instagram](https://www.instagram.com/hussain.web/) | [GitHub](https://github.com/hussainweb) | [GitLab](https://gitlab.com/hussainweb) | [Drupal](https://www.drupal.org/u/hussainweb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainweb/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/hussainweb)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hussainweb)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain.web/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainweb)
+[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hussainweb)
+[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/u/hussainweb)
 
 **Currently working with:**
 
