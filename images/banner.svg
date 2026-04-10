@@ -1,0 +1,39 @@
+<svg fill="none" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          height: 200px;
+          background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          color: white;
+          text-align: center;
+          border-radius: 10px;
+        }
+        .name {
+          font-size: 42px;
+          font-weight: 800;
+          margin-bottom: 10px;
+          background: linear-gradient(to right, #60a5fa, #a78bfa);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+        .title {
+          font-size: 18px;
+          font-weight: 400;
+          letter-spacing: 2px;
+          color: #94a3b8;
+          text-transform: uppercase;
+        }
+      </style>
+      <div class="container">
+        <div class="name">Hussain Abbas</div>
+        <div class="title">Director of Engineering • DevEx • Platform • AI</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
