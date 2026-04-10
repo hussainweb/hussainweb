@@ -2,9 +2,11 @@
 
 <img src="images/me.jpg" align="right" />
 
-My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs.
+My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs and scalable systems.
 
-I work in various areas around Developer Experience and Platform Engineering, and contribute to open-source software as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
+I work as a **Director of Engineering**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
+
+I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about my management and working style. You can also explore my [career milestones](https://hussainweb.me/milestones/), the [tools I use](https://hussainweb.me/uses/), and my writing on my [personal blog](https://hussainweb.me).
 
 ---
 
