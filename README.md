@@ -10,6 +10,12 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 ---
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### Statistics
 
 <p align="center">
