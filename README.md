@@ -4,7 +4,7 @@
 
 My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs.
 
-I work in various areas around Developer Experience  contribute to open-source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
+I work in various areas around Developer Experience and Platform Engineering, and contribute to open-source software as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
 
 ---
 
@@ -36,6 +36,8 @@ I work in various areas around Developer Experience  contribute to open-source s
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+<br />
+<em>Plus Kubernetes, AWS, Azure, and more.</em>
 
 **Learning:**
 
@@ -43,6 +45,8 @@ I work in various areas around Developer Experience  contribute to open-source s
 <a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<br />
+<em>Currently exploring AI, Machine Learning, LangChain, ADK, and related technologies.</em>
 
 **Previously worked with:**
 
@@ -55,10 +59,8 @@ I work in various areas around Developer Experience  contribute to open-source s
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
 
-**Currently focused on building:**
+**Currently focused on:**
 
-- [axl-template](https://github.com/axelerant/axl-template)
-- [db-docker](https://github.com/axelerant/db-docker)
-- [drupalqa](https://github.com/hussainweb/drupalqa)
+- Exploring and learning AI native tools and ways of working
 
 [How did I build this?](https://youtu.be/UqNbBe3lVCI)
