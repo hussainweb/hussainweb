@@ -22,41 +22,41 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 **Currently working with:**
 
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://kubernetes.io/" title="Kubernetes"><img src="icons/k8s.png" /></a>
-<a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.png" /></a>
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="icons/azure.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/)
 <br />
 <em>Plus more in the DevEx, Platform Engineering, and DevOps space.</em>
 
 **Learning:**
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://www.langchain.com/" title="LangChain"><img src="icons/langchain.png" /></a>
-<a href="https://adk.dev/" title="ADK"><img src="icons/adk.png" /></a>
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![ADK](https://img.shields.io/badge/ADK-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://adk.dev/)
 <br />
 <em>Currently exploring AI, Machine Learning, and related technologies.</em>
 
 **Previously worked with:**
 
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](http://csharp.net/)
+[![VB.NET](https://img.shields.io/badge/VB.NET-%23004880.svg?style=for-the-badge&logo=visual-basic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
 
 **Currently focused on:**
 
