@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Pull in hussainweb.me posts
-        uses: gautamkrishnar/blog-post-workflow@v1.9.4
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://hussainweb.me/rss.xml"
           committer_username: "hussainweb"
