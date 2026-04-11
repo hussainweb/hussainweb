@@ -58,6 +58,10 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
+**Frameworks:**
+
+[![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+
 **Cloud, Infrastructure & Platforms:**
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -81,7 +85,6 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 [![VB.NET](https://img.shields.io/badge/VB.NET-%23004880.svg?style=for-the-badge&logo=visual-basic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
