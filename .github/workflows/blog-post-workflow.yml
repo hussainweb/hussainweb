@@ -11,8 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
       - name: Pull in hussainweb.me posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://hussainweb.me/rss.xml"
+          committer_username: "hussainweb"
+          committer_email: "hussainweb@users.noreply.github.com"
+          commit_message: "docs: update latest blog posts from hussainweb.me"
+
