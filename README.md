@@ -87,8 +87,8 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
 
-**Currently focused on:**
+---
 
-- Exploring and learning AI native tools and ways of working
-
-[How did I build this?](https://youtu.be/UqNbBe3lVCI)
+<p align="center">
+  <a href="https://youtu.be/UqNbBe3lVCI">🎥 How did I build this profile?</a>
+</p>
