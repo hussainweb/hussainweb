@@ -1,8 +1,11 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every hour at minute 25 to avoid peak traffic
+    - cron: '25 * * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch: # Run workflow manually
 
 jobs:
