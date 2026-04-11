@@ -61,6 +61,7 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 **Frameworks:**
 
 [![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
 **Cloud, Infrastructure & Platforms:**
 
@@ -84,8 +85,10 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](http://csharp.net/)
 [![VB.NET](https://img.shields.io/badge/VB.NET-%23004880.svg?style=for-the-badge&logo=visual-basic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
+
+**Learning:**
+
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
