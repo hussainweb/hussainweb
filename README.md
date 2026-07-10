@@ -14,11 +14,11 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding My Perfect PKM Fit: The Journey from Logseq to Obsidian](https://hussainweb.me/blog/pkm-migration-logseq-obsidian-tolaria/)
 - [Moving Development to the Cloud: The AI-First Home Server](https://hussainweb.me/blog/moving-dev-to-proxmox-ai-agents/)
 - [Winning the AWS Jam Toronto: An Unexpected Journey](https://hussainweb.me/blog/aws-jam-toronto-2026/)
 - [How I Saved My Immich Installation from a Broken PostgreSQL Upgrade on TrueNAS](https://hussainweb.me/blog/truenas-immich-postgres-upgrade/)
 - [Beyond &quot;It Works on My Machine&quot;: Lessons from Modernizing a Legacy Ansible Role](https://hussainweb.me/blog/modernizing-ansible-role-chezmoi/)
-- [Self-Hosting Atuin with Docker and Coolify](https://hussainweb.me/blog/self-hosting-atuin-with-docker-and-coolify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
