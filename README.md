@@ -14,11 +14,11 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Granular Proxmox Terraform state and live homelab discovery](https://hussainweb.me/blog/homelab-proxmox-terraform-discovery/)
 - [Ollama quietly stopped using my AMD iGPU](https://hussainweb.me/blog/ollama-amd-igpu-vulkan/)
 - [Generating Semantic Note Filenames: Taming Local LLMs with Ollama and Gemma 4](https://hussainweb.me/blog/generating-semantic-note-filenames/)
 - [Finding My Perfect PKM Fit: The Journey from Logseq to Obsidian](https://hussainweb.me/blog/pkm-migration-logseq-obsidian-tolaria/)
 - [Moving Development to the Cloud: The AI-First Home Server](https://hussainweb.me/blog/moving-dev-to-proxmox-ai-agents/)
-- [Winning the AWS Jam Toronto: An Unexpected Journey](https://hussainweb.me/blog/aws-jam-toronto-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
