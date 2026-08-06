@@ -14,11 +14,11 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Homelab Authentication: A Story of Cloudflare, Authelia, Keycloak, and Tinyauth](https://hussainweb.me/blog/homelab-authentication-journey/)
 - [The hidden trap in Terraform&#39;s S3 backend &lpar;and why Cloudflare breaks it&rpar;](https://hussainweb.me/blog/terraform-s3-backend-cloudflare-proxy-pitfalls/)
 - [Life after MinIO: Why I switched to SeaweedFS in my homelab](https://hussainweb.me/blog/minio-alternatives-seaweedfs-garage/)
 - [Granular Proxmox Terraform state and live homelab discovery](https://hussainweb.me/blog/homelab-proxmox-terraform-discovery/)
 - [Ollama quietly stopped using my AMD iGPU](https://hussainweb.me/blog/ollama-amd-igpu-vulkan/)
-- [Generating Semantic Note Filenames: Taming Local LLMs with Ollama and Gemma 4](https://hussainweb.me/blog/generating-semantic-note-filenames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
